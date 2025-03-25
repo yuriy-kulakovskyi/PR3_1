@@ -1,0 +1,30 @@
+Start testing: Mar 26 00:09 EET
+----------------------------------------------------------
+1/1 Testing: ElemTest.StructureCreation
+1/1 Test: ElemTest.StructureCreation
+Command: "/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_1/cmake-build-debug/PR3_1_tests" "--gtest_filter=ElemTest.StructureCreation" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_1/cmake-build-debug
+"ElemTest.StructureCreation" start time: Mar 26 00:09 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_1/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ElemTest.StructureCreation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ElemTest
+[ RUN      ] ElemTest.StructureCreation
+[       OK ] ElemTest.StructureCreation (0 ms)
+[----------] 1 test from ElemTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ElemTest.StructureCreation" end time: Mar 26 00:09 EET
+"ElemTest.StructureCreation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 26 00:09 EET
